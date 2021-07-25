@@ -29,3 +29,9 @@
 ![User-Trips_by_Gender_by_Weekday](https://user-images.githubusercontent.com/81929616/126905700-3b8bbf81-a67d-4d6e-9758-aacf484d9427.PNG)
 
 #### This chart is slightly different in that it shows a breakdown by user type. We examined whether riders were yearly subscribers or just one time customers. The darker colors in the heatmap of the subscriber area of the chart show that the majority of riders are subscribers. It also shows that for subscribers, Thursday and Friday are the two most popular days of the week to ride. For non-subscribers, Saturday is the most popular.
+
+## Summary
+
+#### After exam
+
+#### [View the full story here](https://public.tableau.com/app/profile/stephen.pozzuoli/viz/BikeSharingData_16272298533690/BikeSharing?publish=yes)
