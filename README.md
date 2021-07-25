@@ -20,3 +20,7 @@
 
 #### These two charts are the same except the second one is broken down by gender. The first one shows that trips, on average, last about 10 minutes. The most popular ride times range between 0 and 25 minutes, with sharp declines after that. Secondly, the longer trips seem to be taken by males based on the slightly more gradual decrease in the second line chart.
 
+![Trips_by_Weekday_per_Hour](https://user-images.githubusercontent.com/81929616/126905600-d49875d6-3b66-4dd6-b66b-b270c79c635a.PNG)
+
+![Trips_by_Gender_Weekday_per_Hour](https://user-images.githubusercontent.com/81929616/126905603-b799eb47-7f25-49b4-8671-0aac1ceffa4c.PNG)
+
