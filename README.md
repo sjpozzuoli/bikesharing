@@ -8,7 +8,7 @@
 
 ![Gender_Breakdown](https://user-images.githubusercontent.com/81929616/126905280-4f11769c-8694-4757-ac3e-d1c84dc7dce0.PNG)
 
-#### The above shows the breakdown by Gender of riders. It shows that there are about three times more male riders than female riders. 
+#### The above shows the breakdown by gender of riders. It shows that there are about three times more male riders than female riders. 
 
 ![August_Peak_Hours](https://user-images.githubusercontent.com/81929616/126905318-6d2fa26b-dbe0-4d08-9e08-fac3d9ea1d4e.PNG)
 
@@ -24,3 +24,4 @@
 
 ![Trips_by_Gender_Weekday_per_Hour](https://user-images.githubusercontent.com/81929616/126905603-b799eb47-7f25-49b4-8671-0aac1ceffa4c.PNG)
 
+#### The above two heatmaps show the breakdown by most popular times of the day for bike rides. Once again, we see that the darker colors show around the morning and evening rush hours, indicating that both males and females use the service to get to and from work. As was expected, the heat map is darker for males because there are about three times more riders, as shown in our earlier chart of the gender breakdown.
