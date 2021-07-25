@@ -25,3 +25,7 @@
 ![Trips_by_Gender_Weekday_per_Hour](https://user-images.githubusercontent.com/81929616/126905603-b799eb47-7f25-49b4-8671-0aac1ceffa4c.PNG)
 
 #### The above two heatmaps show the breakdown by most popular times of the day for bike rides. Once again, we see that the darker colors show around the morning and evening rush hours, indicating that both males and females use the service to get to and from work. As was expected, the heat map is darker for males because there are about three times more riders, as shown in our earlier chart of the gender breakdown.
+
+![User-Trips_by_Gender_by_Weekday](https://user-images.githubusercontent.com/81929616/126905700-3b8bbf81-a67d-4d6e-9758-aacf484d9427.PNG)
+
+#### This chart is slightly different in that it shows a breakdown by user type. We examined whether riders were yearly subscribers or just one time customers. The darker colors in the heatmap of the subscriber area of the chart show that the majority of riders are subscribers. It also shows that for subscribers, Thursday and Friday are the two most popular days of the week to ride. For non-subscribers, Saturday is the most popular.
